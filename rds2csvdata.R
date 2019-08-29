@@ -1,7 +1,7 @@
 rm(list=ls())
 library(SingleCellExperiment)
 
-setwd('/Users/chenx/Documents/Exp/n2d/')
+setwd('/Users/chenx/Documents/Exp/deepMate/')
 
 # Import necessary libraries and functions required for preporcessing
 suppressMessages(source("./pre-processing/functions.R"))
